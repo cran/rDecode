@@ -1,0 +1,15 @@
+1f60005d6e17b04c8a14da757d519af9 *DESCRIPTION
+ab932ab6b0f6141a5579d6dc1ea8abf1 *NAMESPACE
+37fea548752f4dbccc134841717aa05a *R/apg.R
+986314468e2258bae6106f6045f8e85f *R/data.R
+36f213907e5044024bed829df25d0129 *R/decode.R
+128d580ede0c9bc06e84d402cc21e772 *R/decodeLDA.R
+a46583510f41a8662c271ff8a55c43d3 *R/decodePM.R
+8b3965b33fcff71a14071ca6a4a8309a *R/homotopy.R
+16a0b690ff03b527a93d67f129242716 *data/lung.test.rda
+f943d31d8c75c12e5c3b3b2e9e8366b3 *data/lung.train.rda
+36aaa9a2adf51f587f82d38a82fcc699 *man/decode.Rd
+f6d4a6d5d3bf58894e2a267b986eabf2 *man/decodeLDA.Rd
+95cda678adb67e7af9332a5dad5af239 *man/decodePM.Rd
+3dd7a0100c5e43949c6c067f03984e8a *man/lung.test.Rd
+c056ee112c3f44fc7282131f3dd849b8 *man/lung.train.Rd
